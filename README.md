@@ -20,6 +20,7 @@ To configure the API, follow these steps:
 npm install
 •	Run the following command to start the API:
 npm start
+
 Build Steps
 Here are the steps involved in building the API:
 •	Create a new file called productModel.js in the models directory. Define the Product schema and export it as a Mongoose model.
